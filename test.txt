@@ -1,1 +1,2 @@
 Hello, this is the first file man.
+Here goes the second change
